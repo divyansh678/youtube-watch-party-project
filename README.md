@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YouTube Watch Party
 
 A room-based YouTube Watch Party built to match the supplied Full Stack Intern Assignment PDF. It uses React + TypeScript + Vite, Node.js + Express, Socket.IO for real-time communication, and the YouTube IFrame Player API.
@@ -132,3 +133,6 @@ Replace the example URLs with the actual service URLs. Update the backend `CLIEN
 ## Suggested demo
 
 Show room creation, a second user joining, synchronized play/pause/seek, video change, role promotion, participant approval request, removal/host transfer, and chat. Include the actual public URL in your submission after deployment.
+=======
+# youtube-watch-party-project
+>>>>>>> 5658297f0ad18d5d5d7bc7ac59f5534cc8c5dff4
